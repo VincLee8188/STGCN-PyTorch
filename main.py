@@ -43,7 +43,6 @@ wa = weight_matrix(pjoin('./dataset', f'W_{n}.csv'))
 
 # Calculate graph kernel
 la = scaled_laplacian(wa)
-# Alternative approximation method: 1st approx - first_approx(W, n).
 lk = cheb_poly_approx(la, ks, n)
 graph_kernel = torch.tensor(lk).type(torch.float32)
 
