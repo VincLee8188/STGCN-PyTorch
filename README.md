@@ -1,7 +1,7 @@
 # STGCN_Pytorch_version
- I try to make the  Pytorch-version implementation of  the spatio-temporal graph convolutional network proposed in [Spatio-Temporal Graph Convolutional Networks: A Deep Learning Framework for Traffic Forecasting](https://arxiv.org/abs/1709.04875) by Bing Yu, Haoteng Yin, Zhanxing Zhu.
+I tried to construct the Pytorch-version implementation of the spatio-temporal graph convolutional network proposed in [Spatio-Temporal Graph Convolutional Networks: A Deep Learning Framework for Traffic Forecasting](https://arxiv.org/abs/1709.04875) by Bing Yu, Haoteng Yin, Zhanxing Zhu.
 
-The author's original  implementations in TensorFlow can be found here:
+The author's original implementations in TensorFlow can be found here and my code structure is borrowed from him:
 
   * [TensorFlow](https://github.com/PKUAI26/STGCN-IJCAI-18) 
 
@@ -9,10 +9,8 @@ The author's original  implementations in TensorFlow can be found here:
 
   * PyTorch
   * Pandas
-  * scipy
-  * numpy
-  * Pycharm community
-  * Tensorboard
+  * Scipy
+  * Numpy
 
  ## Dataset
 
