@@ -3,7 +3,7 @@ I tried to construct the Pytorch-version implementation of the spatio-temporal g
 
 The author's original implementations in TensorFlow can be found here and my code structure is borrowed from him:
 
-  * [TensorFlow](https://github.com/PKUAI26/STGCN-IJCAI-18) 
+  * [TensorFlow](https://github.com/VeritasYin/STGCN_IJCAI-18) 
 
  ## Requirements
 
