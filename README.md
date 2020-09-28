@@ -11,6 +11,7 @@ The author's original implementations in TensorFlow can be found here and my cod
   * Pandas
   * Scipy
   * Numpy
+  * Matplotlib
 
  ## Dataset
 
